@@ -1,0 +1,7 @@
+/*This klass name for the text in each component to center them vertically and horizontally*/
+.component_title{
+    display: flex;
+    justify-content: center;
+    height:300px;
+    align-items: center;
+  }
